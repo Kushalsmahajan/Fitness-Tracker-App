@@ -1,0 +1,8 @@
+{
+  "name": "Fitness Tracker",
+  "description": "A fitness tracking app to log workouts, steps, and calories with visual dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
